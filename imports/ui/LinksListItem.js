@@ -1,5 +1,5 @@
 import React from 'react';
-import Clipboard from 'Clipboard';
+import Clipboard from 'clipboard';
 import {Meteor} from 'meteor/meteor';
 import moment from 'moment';
 
